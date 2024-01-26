@@ -19,7 +19,8 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|21/1/ 2024 |    Google meet |    Dicuss group norms and communication channel                     |
+|24/1/ 2024 |    Google meet |    Brainstorm session for problem identification                 |
 
 ## Communication Channels
 
