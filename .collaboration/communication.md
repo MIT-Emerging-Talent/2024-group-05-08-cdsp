@@ -26,6 +26,12 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
+-We will have weekly meetings using google meet, the linked pined in Slack.
+-We created a Whatsapp group, which will be our main discussion platform.
+-Everyone has to check Slack daily to check if there are any updates
+-We are flexible to have more than one meeting a week if needed.
+
+
 - **Issues**:
 - **Pull Requests**:
 - **Slack/Discord**:
