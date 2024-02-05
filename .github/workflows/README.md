@@ -1,8 +1,8 @@
 ## Workflow
 
-<a href="https://data.unicef.org/topic/education/overview/](https://docs.google.com/document/d/1vdoBlSAXJYgv4zoRqSAO7MkyKua0M34kooFTypbseYE/edit">Third Milestone Progress</a>
+<a href="https://docs.google.com/document/d/1vdoBlSAXJYgv4zoRqSAO7MkyKua0M34kooFTypbseYE/edit" target="_blank">Third Milestone Progress</a>
 </br>
-<a href="https://docs.google.com/document/d/1_FwAd3jI7S2PrnI3_lxBwGEcEFKswqevhZed6vOJn0o/edit?usp=sharing">Second Milestone Progress</a>
+<a href="https://docs.google.com/document/d/1_FwAd3jI7S2PrnI3_lxBwGEcEFKswqevhZed6vOJn0o/edit?usp=sharing" target="_blank">Second Milestone Progress</a>
 
 #### Data collection-Deliverables
 
@@ -27,4 +27,4 @@ The UNICEF education dataset comprises different subsets, covering indicators li
 </ul>
 
 #### Data source
-<a href="https://data.unicef.org/topic/education/overview/">Unicef Education data</a>
+<a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
