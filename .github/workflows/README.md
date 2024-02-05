@@ -14,6 +14,7 @@ How can we improve the quality of education in developing countries, and what ar
 
 #### Data set
 For our project, we are utilizing the UNICEF dataset on education, which encompasses a range of education levels, spanning from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, acquiring skills, and ensuring equity in educational contexts, including both developmental and emergency settings.
+
 The UNICEF education dataset comprises different subsets, covering indicators like out-of-school rate, adjusted net attendance rate, completion rate, foundational learning skills, information communication technology skills, youth and adult literacy rate, as well as school-age digital connectivity.
 
 #### Possible flaws
