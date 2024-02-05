@@ -7,21 +7,21 @@
 
 #### Data collection-Deliverables
 
-Research question
+#### Research question
 
 How can we improve the quality of education in developing countries, and what are the major contributors to the outcome of poor quality education in those countries? What major steps shall be taken to tackle the challenges and fill the gaps that they are facing?
 
 
 
- Domain
+####Domain
 Education
 
- Data set
+#### Data set
 For our project, we are utilizing the UNICEF dataset on education, which encompasses a range of education levels, spanning from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, acquiring skills, and ensuring equity in educational contexts, including both developmental and emergency settings.
 The UNICEF education dataset comprises different subsets, covering indicators like out-of-school rate, adjusted net attendance rate, completion rate, foundational learning skills, information communication technology skills, youth and adult literacy rate, as well as school-age digital connectivity.
 
-Possible flaws
+#### Possible flaws
 The data was last updated on June 1, 2022, making it relatively outdated. Considering the dynamic nature of education and socio-economic factors, it's important to be mindful of the temporal gap when interpreting the findings. Continuous monitoring and potential updates to the dataset would enhance its relevance.
 There are gaps in the completeness of the dataset, with certain countries having more pronounced missing values compared to others.
-Data source
+#### Data source
 Education Statistics - UNICEF DATA
