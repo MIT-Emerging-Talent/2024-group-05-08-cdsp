@@ -4,4 +4,3 @@ How can we improve the quality of education in developing countries, and what ar
 
 ### Domain: Education
 
-<a href="./github/workflows">workflow</a>
