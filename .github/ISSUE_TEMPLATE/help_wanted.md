@@ -17,13 +17,13 @@ labels: help-wanted
 
 ## The Code 
 
-After exploring throughly the literacy dataset from the UNICEF. I found out that there are countries that don't have any value to perform stratified imputation. There are 6 countries which do not have any literacy related data. In addition, their economic statuses are labeled as 'not classified'. When I performed the stratified imputation based on the economic status of countries, these 6 countries outstanded as a separate group. The problem is there is no data to impute. For now, I added them back to the dataset along with other imputed strata. 
+After exploring thoroughly the literacy dataset from UNICEF. I found out that there are countries that don't have any value in performing stratified imputation. There are 6 countries that do not have any literacy-related data. In addition, their economic statuses are labeled as 'not classified'. When I performed the stratified imputation based on the economic status of countries, these 6 countries stood out as a separate group. The problem is there is no data to impute. For now, I added them back to the dataset along with other imputed strata. 
 
 ![Unclassified_Countries](https://drive.google.com/file/d/1ZHJldzhz6g4P8yTx_2DR3ecP9Qm0xnC0/view?usp=drive_link)
 
 <!--
   The code you have a question about (it doesn't need to be your code!). This can
-  be shared a few ways:
+  be shared in a few ways:
 
   - a snippet in the MD of your issue or
   - a permalink: https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet
