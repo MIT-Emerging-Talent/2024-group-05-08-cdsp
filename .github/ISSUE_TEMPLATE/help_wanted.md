@@ -35,11 +35,11 @@ After exploring throughly the literacy dataset from the UNICEF. I found out that
 
 ### Imputation 
 
-In order to impute the missing values, we need to identify how many missing values are there and are they missing at random? The problem is there are rows where all the data are missing as a whole. In addition, the data are not missing at random and removing them from the dataset completely will certainly introduce certain biases. 
+In order to impute the missing values, we need to identify how many missing values are there and whether are they missing at random. The problem is there are rows where all the data are missing as a whole. In addition, the data are not missing at random, and removing them from the dataset completely will certainly introduce certain biases. 
 
-On the other hand, imputing directly as a column will introduce outliers because the dataset contains developed countries that have high literacy rate and least developed countries which have low literacy rate. If we subsitute mean / median that are calculated based on these variables to the missing values will certainly intrdouce biases to the dataset. 
+On the other hand, imputing directly as a column will introduce outliers because the dataset contains developed countries that have high literacy rates and least developed countries which have low literacy rates. If we substitute the mean/median that is calculated based on these variables for the missing values will certainly introduce biases to the dataset. 
 
-Therefore, I will divide the countries into different groups based on their economic status <b>('Development Regions' in the dataset)</b>. This process can reduce the amount of biases because the imputation of mean or median would take in each group. For example, a certain developed countries variable which can become the outliers will not affect to other groups. This process of dividing the dataset into different groups based on a certain characteristics and performing imputation is called <b>"Stratified Imputation"</b>.
+Therefore, I will divide the countries into different groups based on their economic status <b>('Development Regions' in the dataset)</b>. This process can reduce the number of biases because the imputation of mean or median would take in each group. For example, a certain developed country variable which can become the outlier will not affect other groups. This process of dividing the dataset into different groups based on certain characteristics and performing imputation is called <b>"Stratified Imputation"</b>.
 
 ##### Definition: Stratified imputation involves dividing the data into strata (e.g., by region, income group, or development status) and imputing missing values within each stratum separately. This approach helps account for differences in literacy rates across different groups and reduces bias.
 
@@ -64,7 +64,7 @@ Therefore, I will divide the countries into different groups based on their econ
   - What brought you farther?
 -->
 
-Among the different imputation methods, I would like to choose the median value to impute the null values a.k.a "NAN". Replacing null values with mean or median of a certain column is very popular in imputation. "The technique, in this instance, replaces the null values with mean, rounded mean, or median values determined for that feature across the whole dataset (in our case, in each group). It is advised to utilize the median rather than the mean when your dataset has a significant number of outliers (Simplilearn, 2023)." For the 6 countries that I could not do any imputation methods, I added them back to the dataset as their original null values.
+Among the different imputation methods, I would like to choose the median value to impute the null values a.k.a "NAN". Replacing null values with the mean or median of a certain column is very popular in imputation. "The technique, in this instance, replaces the null values with mean, rounded mean, or median values determined for that feature across the whole dataset (in our case, in each group). It is advised to utilize the median rather than the mean when your dataset has a significant number of outliers (Simplilearn, 2023)." For the 6 countries that I could not do any imputation methods, I added them back to the dataset as their original null values.
 
 <b>Ref:</b> https://www.simplilearn.com/data-imputation-article
 
@@ -75,7 +75,7 @@ Among the different imputation methods, I would like to choose the median value 
   progress on the problem.
 -->
 
-To explore my data imputation process, here are the links to source code file and data set. 
+To explore my data imputation process, here are the links to the source code file and data set. 
 
 source code:https://drive.google.com/file/d/1vLAsedD_2AuR43fOCoakY8BBDavDe_D5/view?usp=sharing
 data set:https://drive.google.com/file/d/1hWL59qGq6qwtzzh60nigYC0hknB8H2oU/view?usp=sharing 
