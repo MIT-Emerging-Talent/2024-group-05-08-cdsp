@@ -1,4 +1,4 @@
-# MIT Emerging Talent - Group 8 (cdcp)
+# Global Literacy Insights: Enhancing Education in Developing Nations
 ## Overview
 
 The primary objective of this project is to enhance the quality of education in developing countries by identifying the key factors contributing to low literacy rates. Literacy rate, defined as the proportion of a specific age group within the population capable of reading and writing, serves as a crucial indicator of educational attainment and socioeconomic development.
