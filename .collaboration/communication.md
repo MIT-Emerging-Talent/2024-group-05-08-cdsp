@@ -23,32 +23,37 @@
 4.  Code Review Practices:
 
     . Require code reviews before merging branches.
+    
     . Offer constructive feedback during reviews.
+    
     . Utilize available code review tools and integrations.
 
-5.  Issue Management:
+6.  Issue Management:
 
     . Use GitHub Issues or a similar system to track bugs, features, and tasks.
 
     . Clearly define issue templates and apply labels appropriately.
 
-6.  Pull Request Protocol:
+7.  Pull Request Protocol:
 
     . Clearly outline the purpose of pull requests.
 
     . Ensure all tests pass before merging changes.
 
-7.  Version Control Practices:
+8.  Version Control Practices:
 
     . Avoid force-pushing to shared branches.
 
     . Use descriptive names for branches and tags.
 
-8.  Security Measures:
+9.  Security Measures:
+   
     . Regularly update dependencies and libraries to maintain security.
 
-9.  Collaboration and Communication:
+10.  Collaboration and Communication:
+ 
     . Utilize GitHub Discussions or other platforms for team discussions.
+     
     . Clearly communicate project milestones and deadlines.
 
 ## Communication Schedule
