@@ -2,89 +2,54 @@
 
 ## Group Rules
 
-Branching Strategy:
+1.  Branching Protocol:
 
-. Always initiate pull requests to synchronize with remote repository changes initially.
-. Create feature branches for introducing new features or fixing bugs.
-Commit Guidelines:
+    . Start by initiating pull requests to synchronize with changes from the remote repository.
 
-Craft clear and concise commit messages.
-. Utilize present-tense verbs (e.g., "Add feature" instead of "Added feature").
-. Include references to relevant issues or pull requests in commit messages.
-Code Style:
+    . Create dedicated feature branches for introducing new functionalities or addressing bugs.
 
-. Establish and adhere to a unified code style - PEP 8 for Python.
-. Employ linters and automated formatting tools to uphold code style consistency.
-Documentation:
+2.  Coding Style:
 
-. Thoroughly document code, encompassing function/method comments and README files.
-. Maintain a uniform format for documentation.
-Code Reviews:
+    . Establish and adhere to a consistent code style, such as PEP 8 for Python.
 
-Mandate code reviews prior to merging branches.
-. Offer constructive feedback during code reviews.
-. Utilize code review tools and integrations where available.
-Issue Tracking:
+    . Employ linters and automated formatting tools to ensure code conforms to the established style.
 
-. Employ GitHub Issues or a similar system for tracking bugs, features, and tasks.
-. Clearly define issue templates and utilize labels appropriately.
-Pull Requests:
+3.  Documentation Standards:
 
-. Clearly elucidate the intent of pull requests.
-. Ensure all tests pass before merging.
-Version Control:
+    . Thoroughly document code, including comments for functions/methods and README files.
 
-. Refrain from force-pushing to shared branches.
-. Utilize descriptive branch and tag names.
-Security Practices:
+    . Maintain consistency in documentation format.
 
-. Regularly update dependencies and libraries.
-Collaboration and Communication:
+4.  Code Review Practices:
 
-. Utilize GitHub Discussions or alternative communication channels for team discussions.
-. Clearly communicate project milestones and deadlines.
+    . Require code reviews before merging branches.
+    . Offer constructive feedback during reviews.
+    . Utilize available code review tools and integrations.
 
-Branching Protocol:
+5.  Issue Management:
 
-. Start by initiating pull requests to synchronize with changes from the remote repository.
-. Create dedicated feature branches for introducing new functionalities or addressing bugs.
-Commit Etiquette:
+    . Use GitHub Issues or a similar system to track bugs, features, and tasks.
 
-. Write concise and clear commit messages.
-. Use present-tense verbs (e.g., "Add feature" instead of "Added feature").
-. Incorporate references to relevant issues or pull requests in commit messages.
-Coding Style:
+    . Clearly define issue templates and apply labels appropriately.
 
-. Establish and adhere to a consistent code style, such as PEP 8 for Python.
-. Employ linters and automated formatting tools to ensure code conforms to the established style.
-Documentation Standards:
+6.  Pull Request Protocol:
 
-. Thoroughly document code, including comments for functions/methods and README files.
-. Maintain consistency in documentation format.
-Code Review Practices:
+    . Clearly outline the purpose of pull requests.
 
-. Require code reviews before merging branches.
-. Offer constructive feedback during reviews.
-. Utilize available code review tools and integrations.
-Issue Management:
+    . Ensure all tests pass before merging changes.
 
-. Use GitHub Issues or a similar system to track bugs, features, and tasks.
-. Clearly define issue templates and apply labels appropriately.
-Pull Request Protocol:
+7.  Version Control Practices:
 
-Clearly outline the purpose of pull requests.
-. Ensure all tests pass before merging changes.
-. Version Control Practices:
+    . Avoid force-pushing to shared branches.
 
-Avoid force-pushing to shared branches.
-. Use descriptive names for branches and tags.
-Security Measures:
-. Regularly update dependencies and libraries to maintain security.
-Collaboration and Communication:
-. Utilize GitHub Discussions or other platforms for team discussions.
-. Clearly communicate project milestones and deadlines.
+    . Use descriptive names for branches and tags.
 
----
+8.  Security Measures:
+    . Regularly update dependencies and libraries to maintain security.
+
+9.  Collaboration and Communication:
+    . Utilize GitHub Discussions or other platforms for team discussions.
+    . Clearly communicate project milestones and deadlines.
 
 ## Communication Schedule
 
