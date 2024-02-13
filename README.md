@@ -11,9 +11,9 @@ What major contributors influence the low literacy rate in developing countries 
 To pinpoint the major contributors to the quality of education and literacy rates in developing countries and delineate significant steps for enhancing educational standards.
 
 
-# Project Data Overview:
+## Project Data Overview:
 
-## Notes on the Data
+### Notes on the Data
 
 This project leverages insights from  UNICEF's administrative records and household surveys to comprehensively assess children's school participation. The utilization of enrolment data and attendance information from diverse sources ensures a comprehensive view of primary and secondary education in developing countries. Notably, UNICEF's data align with the official International Standard Classifications of Education (ISCED), providing a standardized framework, although variations may exist compared to country-specific school systems.
 
