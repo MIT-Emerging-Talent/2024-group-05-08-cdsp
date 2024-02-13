@@ -5,7 +5,7 @@
 ## Individual
 
 
-1. Kaung Hein Htet’s goals:
+#### 1. Kaung Hein Htet’s goals:
    
   . Research about the available data from reliable sources like kaggle, Data Banks, etc.
   
@@ -13,7 +13,7 @@
   
   . Learn how to collect data, data types, and key metrics to satisfy our research question.
 
-2. Noha’s goals:
+#### 2. Noha’s goals:
 
   . Learn how to collaboratively in diverse group (how to use Git and Github, project management tools, enhance my communication skills.
   
@@ -23,7 +23,7 @@
   
   . Enhance my critical thinking and problem solving.
 
-3. Lotfullah learning goals:
+#### 3. Lotfullah learning goals:
    
    . Enhance my communication skills in an environment where people are from different walks of life.
    
