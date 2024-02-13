@@ -11,16 +11,16 @@ What major contributors influence the low literacy rate in developing countries 
 To pinpoint the major contributors to the quality of education and literacy rates in developing countries and delineate significant steps for enhancing educational standards.
 
 
-### Project Data Overview:
+# Project Data Overview:
 
-# Notes on the Data
+## Notes on the Data
 
 This project leverages insights from  UNICEF's administrative records and household surveys to comprehensively assess children's school participation. The utilization of enrolment data and attendance information from diverse sources ensures a comprehensive view of primary and secondary education in developing countries. Notably, UNICEF's data align with the official International Standard Classifications of Education (ISCED), providing a standardized framework, although variations may exist compared to country-specific school systems.
 
-## Utilization of UNICEF Education Dataset:
+### Utilization of UNICEF Education Dataset:
 For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.
 
-## Key Indicators in UNICEF Education Dataset:
+### Key Indicators in UNICEF Education Dataset:
 The UNICEF education dataset comprises various subsets, encompassing crucial indicators such as:
 - Out-of-school rate
 - Adjusted net attendance rate
@@ -32,7 +32,7 @@ The UNICEF education dataset comprises various subsets, encompassing crucial ind
 
 By utilizing these subsets, our project aims to gain comprehensive insights into the multifaceted aspects of education, contributing to a nuanced understanding of the factors influencing literacy rates in developing nations.
 
-# Literacy Rate Definition:
+### Literacy Rate Definition:
 The literacy rate is defined as the total number of literate persons in a given age group, expressed as a percentage of the total population in that age group. The adult literacy rate measures literacy among persons aged 15 years and older, and the youth literacy rate measures literacy among persons aged 15 to 24 years.
 
 ### Possible flaws
