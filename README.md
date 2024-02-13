@@ -2,6 +2,7 @@
 ## Overview
 
 The primary objective of this project is to enhance the quality of education in developing countries by identifying the key factors contributing to low literacy rates. Literacy rate, defined as the proportion of a specific age group within the population capable of reading and writing, serves as a crucial indicator of educational attainment and socioeconomic development.
+
 Through comprehensive data analysis and exploration, this project aims to uncover the underlying determinants of low literacy rates. By identifying these influential factors, targeted interventions and policies can be developed to address the root causes of low literacy rates and promote educational advancement in developing nations.
 
 ### Research question:
