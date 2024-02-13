@@ -7,7 +7,8 @@
 
 - Actively participating in question formulation and considering different project aspects.
 - Engaging various stakeholders in the question formulation process.
-- Start Doing:
+  
+## Start Doing:
 
 - Considering diverse perspectives and information sources when formulating questions.
 - Utilizing tools to evaluate the significance and relevance of each question.
