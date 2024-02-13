@@ -16,7 +16,7 @@ To pinpoint the major contributors to the quality of education and literacy rate
 ### Project Data Overview:
 
 For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found 
-<a href="https://data.unicef.org/topic/education/overview/" target="_blank">Here</a>
+<a href="https://github.com/MIT-Emerging-Talent/2024-group-08-cdsp/tree/main/education_dataset" target="_blank">Here</a>
 
 
 #### Data Source
