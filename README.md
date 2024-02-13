@@ -1,8 +1,9 @@
 # Global Literacy Insights for Educational Enhancement in Developing Nations
 ### Overview
 
-This project strives to enhance the quality of education in developing countries by identifying key factors contributing to low literacy rates. The literacy rate is defined as the total number of literate persons in a given age group, expressed as a percentage of the total population in that age group. The adult literacy rate measures literacy among persons aged 15 years and older, and the youth literacy rate measures literacy among persons aged 15 to 24 years. 
-The literacy rate, a crucial indicator of educational attainment and socioeconomic development, is analyzed through comprehensive data exploration. By uncovering the determinants of low literacy rates, this project aims to develop targeted interventions and policies, addressing root causes and promoting educational advancement
+This project is dedicated to improving the quality of education in developing nations by identifying key factors contributing to low literacy rates. The literacy rate is defined as the total number of literate individuals in a specific age group, expressed as a percentage of the total population within that age bracket. Two essential metrics, the adult literacy rate (measuring literacy among individuals aged 15 years and older) and the youth literacy rate (measuring literacy among those aged 15 to 24 years), provide nuanced insights into educational achievements.
+
+The literacy rate serves as a crucial indicator of educational attainment and socioeconomic development. Through comprehensive data exploration, this project delves into the intricate factors influencing low literacy rates. The objective is to uncover these determinants, paving the way for the development of targeted interventions and policies. By addressing the root causes, the project aims to promote educational advancement in developing countries.
 ### Research question:
 
 What major contributors influence the low literacy rate in developing countries within the domain of education?
