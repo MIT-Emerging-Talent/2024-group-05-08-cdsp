@@ -7,7 +7,8 @@ What are the major contributors to the low literacy-rate in developing countries
 ##### Improving Quality of Education in Developing Countries
 
 ### Objective:
-2 3 
+
+233
 To Find the major contributors to the quality of education and literacy rate in developing countries. What major steps shall be taken to improve quality of education in those countries?
 
 ### Key Question
