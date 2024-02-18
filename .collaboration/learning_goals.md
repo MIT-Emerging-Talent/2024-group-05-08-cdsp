@@ -30,3 +30,17 @@
       . work on a project where I really do care about.
       
       . learn more about education systems in other countries.
+
+### 4. Muhaddesa's Learning goals:
+       . Learning about how to work in a team (individuals from differnet backgrounds)
+       
+       . Learning about fundamentals of Git, including version control, repositories, commits, branches, and merges.
+
+       . Developing my skills in analyzing and interpreting datasets to come up with some insights.
+
+       . To know about education system in developed countries. 
+
+       
+
+       
+       
