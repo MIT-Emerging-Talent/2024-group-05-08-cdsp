@@ -93,10 +93,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 | Lotfullah | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
 
+
 # EST Time Zone
 | Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------  | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 |Nasrullah| 11 - 16 | 10 - 20 |  8 - 20   | 11 - 20  | 8 - 20  | 10 - 20  | 09 - 20 |
+=======
+| Day       |   Monday    |   Tuesday   |  Wednesday   | Thursday |    Friday    |  Saturday    | Sunday  |
+| --------  | :--------:  | :---------: | :-------:    | :------: | :---------:  | :------:     | :-----: |
+| Muhaddesa | 7:00 - 7:10 | 8:00 - 8:20 |  9:00 - 9:20 | 13 - 20  | 9:00 - 10:00 | 9:00 - 9:10  | 13 - 20 |
+
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
@@ -109,8 +115,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day:
 
 - Lotfullah: 2h;
+
 - Nasrullah Safdari: 3.5h;
 - name: _5h_;
+=======
+- Nasrullah Safdari: 3h;
+- Muhaddesa Noori: 2h;
+
 - name: _4h_;
 - name: _3h_;
 
