@@ -99,7 +99,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | -- |
+| Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm |
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
