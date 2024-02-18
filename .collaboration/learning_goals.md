@@ -30,3 +30,28 @@
       . work on a project where I really do care about.
       
       . learn more about education systems in other countries.
+
+#### 4. Nasrullah Safdari Learning Goals:
+     . Enhance my data analysis skills:
+     - Utilize various statistical and machine learning techniques to analyze and interpret education data effectively.
+     - Gain proficiency in using data analysis tools such as pandas, NumPy, and scikit-learn.
+
+     . Improve my programming skills:
+     - Enhance coding skills in Python for efficient data manipulation and analysis.
+     - Learn to write clean and modular code to address specific data science tasks.
+
+     . Develop data visualization expertise:
+     - Master data visualization libraries like Matplotlib and Seaborn to create compelling visual representations of education-related insights.
+     - Learn to communicate complex findings through clear and insightful data visualizations.
+
+     . Collaborate effectively with a diverse team:
+     - Strengthen teamwork and collaboration skills in a multicultural and multidisciplinary project environment.
+     - Improve communication skills to convey technical concepts and findings to team members with different backgrounds.
+
+     . Deepen understanding of education systems:
+     - Research and gain insights into diverse education systems in different countries, policies, and practices globally.
+     - Understand the impact of socio-economic factors on education outcomes and identify potential correlations within the data.
+
+     . Contribute meaningfully to the project:
+     - Actively engage in the project, demonstrating a genuine interest and commitment to addressing key questions in the education field.
+     - Apply acquired knowledge and skills to contribute valuable insights and solutions to the team's objectives.
