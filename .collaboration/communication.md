@@ -48,11 +48,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-
+| Zia    | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Zia  : 2h
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
