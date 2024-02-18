@@ -106,7 +106,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm |
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
@@ -122,7 +122,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Nasrullah Safdari: 3h;
 - Muhaddesa Noori: 2h;
 
+
 - name: _4h_;
+
+- Noha: 2h;
+=
 - name: _3h_;
 
 ## Asking for Help
