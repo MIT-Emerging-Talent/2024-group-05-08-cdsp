@@ -1,4 +1,4 @@
-![image](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/c298a0ae-cb54-40fd-b8c2-76f3721f0596)
+[![Crates.io license shield](https://img.shields.io/crates/l/logos.svg)](https://crates.io/crates/logos)
 
 # Global Literacy Insights for Educational Enhancement in Developing Nations
 ### Overview
