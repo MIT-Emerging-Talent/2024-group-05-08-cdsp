@@ -110,7 +110,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Lotfullah: 2h;
 - Nasrullah Safdari: 3h;
 - Muhaddesa Noori: 2h;
-- name: _4h_;
+- Noha: 2h;
 - name: _3h_;
 
 ## Asking for Help
