@@ -39,8 +39,15 @@
        . Developing my skills in analyzing and interpreting datasets to come up with some insights.
 
        . To know about education system in developed countries. 
+     
+### 5. Zia's Learning goals:   
 
-       
+ . Learning various statistical techniques and methods for data analysis, hypothesis testing, and predictive modeling.
+ 
+ . Develop skills in machine learning algorithms and models.
+ 
+ . Gain experience of working on real-world data science projects, applying learned concepts and techniques to solve practical        problems.
+ . Develop critical thinking and problem-solving skills to identify and address data-related challenges and make data-driven decisions.
 
-       
+
        
