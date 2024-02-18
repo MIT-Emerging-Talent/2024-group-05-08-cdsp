@@ -93,9 +93,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 | Lotfullah | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day       |   Monday    |   Tuesday   |  Wednesday   | Thursday |    Friday    |  Saturday    | Sunday  |
+| --------  | :--------:  | :---------: | :-------:    | :------: | :---------:  | :------:     | :-----: |
+| Muhaddesa | 7:00 - 7:10 | 8:00 - 8:20 |  9:00 - 9:20 | 13 - 20  | 9:00 - 10:00 | 9:00 - 9:10  | 13 - 20 |
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
@@ -109,7 +109,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Lotfullah: 2h;
 - Nasrullah Safdari: 3h;
-- name: _5h_;
+- Muhaddesa Noori: 2h;
 - name: _4h_;
 - name: _3h_;
 
