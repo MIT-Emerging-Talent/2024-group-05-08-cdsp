@@ -56,7 +56,6 @@
      . Contribute meaningfully to the project:
      - Actively engage in the project, demonstrating a genuine interest and commitment to addressing key questions in the education field.
      - Apply acquired knowledge and skills to contribute valuable insights and solutions to the team's objectives.
-=======
 ### 4. Muhaddesa's Learning goals:
        . Learning about how to work in a team (individuals from differnet backgrounds)
        
