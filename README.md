@@ -1,3 +1,5 @@
+![image](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/c298a0ae-cb54-40fd-b8c2-76f3721f0596)
+
 # Global Literacy Insights for Educational Enhancement in Developing Nations
 ### Overview
 
