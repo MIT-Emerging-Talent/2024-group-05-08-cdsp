@@ -33,3 +33,10 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 ### Data Set Documentation:
 
 ### Data Cleaning
+
+<h2><a href="./milestone/milestone-2/data-cleaning.md">data cleaning</a></h2>
+<h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
+<h4><a href="./milestone/milestone-2/literacy_rate.csv">Cleaned dataset</a></h4>
+
+One of the main issue with original which have noticed is missing values,especially for least developed countries and less developed countries.
+Those missing cells had been filled with median of their respective category.
