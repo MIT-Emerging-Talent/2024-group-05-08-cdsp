@@ -1,6 +1,4 @@
-
 # Global Literacy Insights for Educational Enhancement in Developing Nations
-
 
 <a href="https://github.com/djeada/Data-Structures/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/djeada/Data-Structures"></a>
 <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
@@ -33,7 +31,10 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 <a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
 
 ### Data Set Documentation:
-(... in progress)
+(...Doing)
+<h1><a href="./milestone/milestone-2/data-cleaning.md">Data Cleaning</a></h1>
+<h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
+<h4><a href="./milestone/milestone-2/literacy_rate.csv">Cleaned dataset</a></h4>
 
-### Data Cleaning
-(... in progress)
+One of the main issue with original which have noticed is missing values,especially for least developed countries and less developed countries.
+Those missing cells had been filled with median of their respective category.
