@@ -15,5 +15,6 @@
 - Using the project board as our main point of connection for reviewing each others work.
 
 ## Lessons Learned:
+
 - Give more importance to project board.
 - Everyone's opinion matters, sometimes it can solve the problem that everyone is facing, but no one is talking about.
