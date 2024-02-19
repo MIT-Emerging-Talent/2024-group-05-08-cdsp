@@ -26,10 +26,6 @@ To pinpoint the major contributors to the quality of education and literacy rate
 For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found
 <a href="https://github.com/MIT-Emerging-Talent/2024-group-08-cdsp/tree/main/education_dataset" target="_blank">Here</a>
 
-#### Original data source
-
-<a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
-
 ### Data Set Documentation:
 
 <h1><a href="./milestone/milestone-2/data-cleaning.md">Data Cleaning</a></h1>
@@ -38,3 +34,5 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 
 One of the main issue with original which have noticed is missing values,especially for least developed countries and less developed countries.
 Those missing cells had been filled with median of their respective category.
+
+<h1><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h1>
