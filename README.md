@@ -32,9 +32,7 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 
 ### Data Set Documentation:
 
-### Data Cleaning
-
-<h2><a href="./milestone/milestone-2/data-cleaning.md">data cleaning</a></h2>
+<h1><a href="./milestone/milestone-2/data-cleaning.md">Data Cleaning</a></h1>
 <h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
 <h4><a href="./milestone/milestone-2/literacy_rate.csv">Cleaned dataset</a></h4>
 
