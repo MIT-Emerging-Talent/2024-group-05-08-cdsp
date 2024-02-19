@@ -1,32 +1,39 @@
+
+# Global Literacy Insights for Educational Enhancement in Developing Nations
+
+
+<a href="https://github.com/djeada/Data-Structures/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/djeada/Data-Structures"></a>
+<a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+
+### Overview
+
+This project is dedicated to improving the quality of education in developing nations by identifying key factors contributing to low literacy rates. The literacy rate is defined as the total number of literate individuals in a specific age group, expressed as a percentage of the total population within that age bracket. Two essential metrics, the adult literacy rate (measuring literacy among individuals aged 15 years and older) and the youth literacy rate (measuring literacy among those aged 15 to 24 years), provide nuanced insights into educational achievements.
+
+The literacy rate serves as a crucial indicator of educational attainment and socioeconomic development. Through comprehensive data exploration, this project delves into the intricate factors influencing low literacy rates. The objective is to uncover these determinants, paving the way for the development of targeted interventions and policies. By addressing the root causes, the project aims to promote educational advancement in developing countries.
+
+### Problem Statement:
+
+Despite the global recognition of the importance of literacy in fostering educational attainment and socioeconomic development, many developing nations continue to grapple with persistently low literacy rates. This project identifies a critical need to address the complex factors contributing to these challenges. The problem at hand lies in understanding the nuanced determinants of low literacy rates within the education domain of developing countries, hindering the overall quality of education in these regions.
+
 ### Research question:
 
-How can we improve the quality of education in developing countries, and what are the major contributors to the outcome of poor quality education in those countries? What major steps shall be taken to tackle the challenges and fill the gaps that they are facing?
-
-#### Domain: Education
-
-##### Improving Quality of Education in Developing Countries
+What major contributors influence the low literacy rate in developing countries within the domain of education?
 
 ### Objective:
 
-To Find the major contributors to the quality of education and literacy rate in developing countries. What major steps shall be taken to improve quality of education in those countries?
+To pinpoint the major contributors to the quality of education and literacy rates in developing countries and delineate significant steps for enhancing educational standards.
 
-### Key Question
+### Project Data Overview:
 
-What are the main variables effecting quality of education?
+For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found
+<a href="https://github.com/MIT-Emerging-Talent/2024-group-08-cdsp/tree/main/education_dataset" target="_blank">Here</a>
 
-### Data set
-
-For our project, we are utilizing the UNICEF dataset on education, which encompasses a range of education levels, spanning from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, acquiring skills, and ensuring equity in educational contexts, including both developmental and emergency settings.
-
-The UNICEF education dataset comprises different subsets, covering indicators like out-of-school rate, adjusted net attendance rate, completion rate, foundational learning skills, information communication technology skills, youth and adult literacy rate, as well as school-age digital connectivity.
-
-### Possible flaws
-
-<ul>
-<li>The data was last updated on June 1, 2022, making it relatively outdated. Considering the dynamic nature of education and socio-economic factors, it's important to be mindful of the temporal gap when interpreting the findings. Continuous monitoring and potential updates to the dataset would enhance its relevance.</li>
-<li>There are gaps in the completeness of the dataset, with certain countries having more pronounced missing values compared to others.</li>      
-</ul>
-
-#### Data Source
+#### Original data source
 
 <a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
+
+### Data Set Documentation:
+(... in progress)
+
+### Data Cleaning
+(... in progress)
