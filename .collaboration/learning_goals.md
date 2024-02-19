@@ -56,7 +56,7 @@
      . Contribute meaningfully to the project:
      - Actively engage in the project, demonstrating a genuine interest and commitment to addressing key questions in the education field.
      - Apply acquired knowledge and skills to contribute valuable insights and solutions to the team's objectives.
-### 4. Muhaddesa's Learning goals:
+#### 5. Muhaddesa's Learning goals:
        . Learning about how to work in a team (individuals from differnet backgrounds)
        
        . Learning about fundamentals of Git, including version control, repositories, commits, branches, and merges.
@@ -64,7 +64,11 @@
        . Developing my skills in analyzing and interpreting datasets to come up with some insights.
 
        . To know about education system in developed countries. 
-
+#### 6. Ali Sina's Learning Goals:
+      . Enhancing data analysis skills.
+      . Improving my git and github skills.
+      . Learning about education systems.
+      . Enhancing my programming skills.
        
 
        
