@@ -33,7 +33,7 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 
 This project is organized into several phases, each crucial for its successful completion.
 
-## 1. Collaborative Development (January 8 - 19)
+### 1. Collaborative Development (January 8 - 19)
 
 During this phase, the team members get to know each other and establish effective collaboration. We build our collaboration plan, set norms, define learning goals, and specify project constraints. You can find more details about each deliverable in the corresponding documents linked below:
 - [Learning Goals Document](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/blob/main/.collaboration/learning_goals.md)
