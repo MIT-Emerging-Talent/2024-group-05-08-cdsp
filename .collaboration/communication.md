@@ -105,14 +105,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm |
 
-
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+| Ali SIna | 8:30-11:00AM | 8:30-11:00AM | 10:30-12:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM |
 ### How many hours everyone has per day:
 
 - Lotfullah: 2h;
 - Nasrullah Safdari: 3h;
 - Muhaddesa Noori: 2h;
 - Noha: 2h;
-
+- Ali Sina: 2h;
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
