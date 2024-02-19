@@ -13,3 +13,5 @@
 - Having more meetings with Evan and group teammates.
 
 ## Lessons Learned:
+
+- How to clean the data.
