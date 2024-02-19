@@ -88,30 +88,30 @@ how often will we get in touch on each channel, and what we will discuss there:
 ## Availability
 
 ### Availability for calling/messaging
-
+# EST Time Zone
 | Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 | Lotfullah | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------  | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+|Nasrullah| 11 - 16 | 10 - 20 |  8 - 20   | 11 - 20  | 8 - 20  | 10 - 20  | 09 - 20 |
+=======
+| Day       |   Monday    |   Tuesday   |  Wednesday   | Thursday |    Friday    |  Saturday    | Sunday  |
+| --------  | :--------:  | :---------: | :-------:    | :------: | :---------:  | :------:     | :-----: |
+| Muhaddesa | 7:00 - 7:10 | 8:00 - 8:20 |  9:00 - 9:20 | 13 - 20  | 9:00 - 10:00 | 9:00 - 9:10  | 13 - 20 |
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm |
 
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 | 13 - 20 |
 
 ### How many hours everyone has per day:
 
 - Lotfullah: 2h;
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Nasrullah Safdari: 3h;
+- Muhaddesa Noori: 2h;
+- Noha: 2h;
 
 ## Asking for Help
 
