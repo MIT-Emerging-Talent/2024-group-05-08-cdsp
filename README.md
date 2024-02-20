@@ -56,7 +56,7 @@ During this week, we engaged in multiple brainstorming sessions to identify and 
 Through these efforts, we laid the groundwork for our project by defining a clear problem statement and gaining insights into the context in which it exists. More details about this week deliverables can be found <a href="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/tree/main/milestone/milestone-1" target="_blank">Here</a>
 
 
-### 3. Data Collection (January 29 - February 2)
+### 3. Data Collection and cleaning (January 29 - February 2)
 
 During this phase, our focus was on gathering relevant data sets that are pertinent to addressing the identified problem. The process involved the following steps:
 
@@ -66,18 +66,13 @@ During this phase, our focus was on gathering relevant data sets that are pertin
 
 - **Selection of Data Source:** After careful deliberation, we reached a consensus to utilize the UNICEF data set as it provides valuable insights and information relevant to our project goals. The decision to use this particular data set was based on its comprehensiveness, reliability, and alignment with our project requirements.
 
-- **Cleaning the Dataset:** Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing.
+- **Cleaning the Dataset:** Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing. One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries. Those missing cells had been filled with median of their respective category.
 
 By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found <a href="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/tree/main/milestone/milestone-2" target="_blank">Here</a>
 
-<h1><a href="./milestone/milestone-2/data-cleaning.md">Data Cleaning</a></h1>
 
-<h4><a href="./milestone/milestone-2/literacy_rate.csv">Cleaned dataset</a></h4>
 
-One of the main issue with original which have noticed is missing values,especially for least developed countries and less developed countries.
-Those missing cells had been filled with median of their respective category.
-
-## 4. Data Analysis (February 5 - 16)
+### 4. Data Analysis (February 5 - 16)
 In this phase, we analyze the collected data to derive insights and draw conclusions. We use various analytical techniques and tools to make sense of the data and identify patterns or trends.
 <h1><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h1>
 <h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
