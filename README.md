@@ -74,7 +74,7 @@ By selecting the UNICEF data set and cleaning it meticulously, we ensured access
 
 <h4><a href="./milestone/milestone-2/literacy_rate.csv">Cleaned dataset</a></h4>
 
-One of the main issue with original which have noticed is missing values,especially for least developed countries and less developed countries.
+One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries.
 Those missing cells had been filled with median of their respective category.
 
 ## 4. Data Analysis (February 5 - 16)
