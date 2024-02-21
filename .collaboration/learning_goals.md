@@ -69,7 +69,15 @@
       . Improving my git and github skills.
       . Learning about education systems.
       . Enhancing my programming skills.
+ #### 7. Zia's Learning Goals:
+       . Learning various statistical techniques and methods for data analysis, hypothesis testing, and predictive modeling.
+ 
+       . Develop skills in machine learning algorithms and models.
+ 
+       .Gain experience of working on real-world data science projects, applying learned concepts and techniques to solve practical     problems.
        
+       .Develop critical thinking and problem-solving skills to identify and address data-related challenges and make data-driven decisions.
+
 
        
        
