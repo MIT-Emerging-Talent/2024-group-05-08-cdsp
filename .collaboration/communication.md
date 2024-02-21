@@ -108,6 +108,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 | Ali SIna | 8:30-11:00AM | 8:30-11:00AM | 10:30-12:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM |
+
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+|  Zia      | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
+
+
+
 ### How many hours everyone has per day:
 
 - Lotfullah: 2h;
@@ -115,6 +122,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Muhaddesa Noori: 2h;
 - Noha: 2h;
 - Ali Sina: 2h;
+- Zia : 2h;
+  
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
