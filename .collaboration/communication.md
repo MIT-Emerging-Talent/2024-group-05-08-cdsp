@@ -103,18 +103,55 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+
+| Zia    | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
+### How many hours everyone has per day:
+
+- Zia  : 2h
+- name: _6h_;
+- name: _5h_;
+- name: _4h_;
+
 | Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm |
+| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+=======
+| Noha | -- | 7:00-9:00pm |   7:00-9:00pm | 7:00-9:00pm   |  12:00pm-4:00 pm| `1:00-4pm:00pm  20  | 6:00pm-9:00pm 
+
+
+|| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Esmatullah |7:00am-11:00am | 7:00- 11:00 | 7:00-a:00| 7:00-11:00|  7:00amm-11:00| `8:00-16:00 | 8:00pm-16:00 |
 
 | Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 | Ali SIna | 8:30-11:00AM | 8:30-11:00AM | 10:30-12:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM | 8:30-11:00AM |
+
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+|  Zia      | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
+
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+|  Tasabeeh     | 8:00-10:00 AM | 11:30-12:00 AM | 8:00-8:10AM | 11:30-12:00 AM | 8:00-8:10AM | 8:00 AM | 8:00 AM |
+
+
 ### How many hours everyone has per day:
 
 - Lotfullah: 2h;
 - Nasrullah Safdari: 3h;
 - Muhaddesa Noori: 2h;
 - Noha: 2h;
+
+
+- name: _3h_;
+
+=======
 - Ali Sina: 2h;
+- Zia : 2h;
+- Esmatullah : 2h;
+- Tasabeeh: 2h;
+  
+
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
