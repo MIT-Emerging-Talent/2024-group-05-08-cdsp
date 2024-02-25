@@ -27,17 +27,22 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 <a href="https://github.com/MIT-Emerging-Talent/2024-group-08-cdsp/tree/main/education_dataset" target="_blank">Here</a>
 
 #### Original data source:
+
 <a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
 
-## Data cleaning 
+## Data cleaning
 
 Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing. One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries. Those missing cells had been filled with median of their respective category.
 
 By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found <a href="2024-group-05-08-cdsp\data_cleaning" target="_blank">Here</a>
 
-
 ## Data Analysis
+
 In this phase, we analyze the collected data to derive insights and draw conclusions. We use various analytical techniques and tools to make sense of the data and identify patterns or trends.
+
 <h1><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h1>
 <h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
 
+#### Heading-1
+
+Heading added
