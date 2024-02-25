@@ -41,8 +41,7 @@ Upon selecting the suitable data set, we proceeded to clean the data to ensure i
 By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found <a href="2024-group-05-08-cdsp\data_cleaning" target="_blank">Here</a>
 
 
-## Data Analysis
+<h2><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h2>
 In this phase, we analyze the collected data to derive insights and draw conclusions. We use various analytical techniques and tools to make sense of the data and identify patterns or trends.
-<h1><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h1>
 <h4><a href="./milestone/milestone-2/literacy_rate.ipynb">Initial Analysis</a></h4>
 
