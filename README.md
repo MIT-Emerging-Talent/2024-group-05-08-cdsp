@@ -11,9 +11,14 @@ The literacy rate serves as a crucial indicator of educational attainment and so
 
 ### Problem Statement:
 
+
+233
+To Find the major contributors to the quality of education and literacy rate in developing countries. What major steps shall be taken to improve quality of education in those countries?
+
 Despite the global recognition of the importance of literacy in fostering educational attainment and socioeconomic development, many developing nations continue to grapple with persistently low literacy rates. This project identifies a critical need to address the complex factors contributing to these challenges. The problem at hand lies in understanding the nuanced determinants of low literacy rates within the education domain of developing countries, hindering the overall quality of education in these regions.
 
 ### Research question:
+
 
 What major contributors influence the low literacy rate in developing countries within the domain of education?
 
