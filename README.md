@@ -23,14 +23,14 @@ What major contributors influence the low literacy rate in developing countries 
 
 To pinpoint the major contributors to the quality of education and literacy rates in developing countries and delineate significant steps for enhancing educational standards.
 
-### Project's Data :
+<h2><a href="./data_source">Data Source</a></h2>
 
 For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found
-<a href="./data_source/raw_data" target="_blank">cleaned data</a>
+<a href="./data_source/raw_data" target="_blank">source data</a>
 
 #### Original data source: <a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
 
-## Data cleaning
+<h2><a href="./data_source/cleaning_progress/">Data Cleaning</a></h2>
 
 Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing. One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries. Those missing cells had been filled with median of their respective category.
 <a href="./data_source/cleaned_data" target="_blank">cleaned data</a>
