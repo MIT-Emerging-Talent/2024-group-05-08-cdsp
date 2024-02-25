@@ -117,6 +117,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 |  Zia      | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 8:00-8:10PM | 13 - 20 |
 
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+|  Tasabeeh     | 8:00-10:00 AM | 11:30-12:00 AM | 8:00-8:10AM | 11:30-12:00 AM | 8:00-8:10AM | 8:00 AM | 8:00 AM |
 
 
 ### How many hours everyone has per day:
@@ -128,6 +131,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Ali Sina: 2h;
 - Zia : 2h;
 - Esmatullah : 2h;
+- Tasabeeh: 2h;
   
 ## Asking for Help
 
