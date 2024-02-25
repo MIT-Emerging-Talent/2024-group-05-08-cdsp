@@ -25,8 +25,7 @@ To pinpoint the major contributors to the quality of education and literacy rate
 
 <h2><a href="./data_source">Data Source</a></h2>
 
-For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found
-<a href="./data_source/raw_data" target="_blank">source data</a>
+For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found at <a href="./data_source/raw_data" target="_blank">source data</a>
 
 #### Original data source: <a href="https://data.unicef.org/topic/education/overview/" target="_blank">Unicef Education data</a>
 
@@ -35,7 +34,7 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing. One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries. Those missing cells had been filled with median of their respective category.
 <a href="./data_source/cleaned_data" target="_blank">cleaned data</a>
 
-By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found <a href="./data_source/cleaning_progress/" target="_blank">data source</a>
+By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found at <a href="./data_source/cleaning_progress/" target="_blank">data source</a>
 
 <h2><a href="./milestone/milestone-3/Analysis_of_Education_in_Developing_Countries.ipynb">Our Findings</a></h2>
 In this phase, we analyze the collected data to derive insights and draw conclusions. We use various analytical techniques and tools to make sense of the data and identify patterns or trends.
