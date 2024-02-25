@@ -79,6 +79,24 @@
        .Develop critical thinking and problem-solving skills to identify and address data-related challenges and make data-driven decisions.
 
 
+### Esmatullah Hassanzada's Learning Goals:
+
+## 1. Enhance Collaboration Skills:
+   - Learn to effectively collaborate with team members from diverse backgrounds.
+   - Utilize Git and GitHub for version control and project management.
+   - Improve communication skills to foster productive teamwork.
+
+## 2. Develop Data Science Proficiency:
+   - Strengthen Python coding skills for data analysis and visualization.
+   - Gain insights into education systems globally through data analysis.
+   - Familiarize myself with key data science libraries and frameworks.
+
+## 3. Contribute Meaningfully:
+   - Actively engage in project discussions and decision-making processes.
+   - Offer valuable insights and solutions based on acquired skills and knowledge.
+   - Support team objectives with dedication and commitment.
+
+
        
        
 
