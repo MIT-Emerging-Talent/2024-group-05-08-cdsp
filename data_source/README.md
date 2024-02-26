@@ -1,3 +1,6 @@
+Welcome to the data_source folder! Here, you'll find the backbone of our project, the raw_data section, centered on the UNICEF dataset covering various education levels. The cleaned_data section details our meticulous cleaning process, categorizing data by regions and utilizing medians for imputation. The cleaning_progress section offers ongoing insights into our data refinement journey. Below, you'll find our dataset glossary for further clarity.
+
+
 ### Datasets Glossary
 
 - __ISO3:__ Three-digit alphabetical codes International Standard ISO 3166-1
