@@ -78,6 +78,15 @@
        
        .Develop critical thinking and problem-solving skills to identify and address data-related challenges and make data-driven decisions.
 
+#### 8. Tasabeeh's Learning Goals:
+
+       . Learn and train in a cross-functional collaboration environment.
+       . Gain experience in a data science project of my interest.
+       . Learn to use github.
+       . Develop communication and project management skills.
+
+       
+
 
        
        
