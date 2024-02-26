@@ -1,0 +1,1 @@
+This github folder contains issue and pull request templates.
