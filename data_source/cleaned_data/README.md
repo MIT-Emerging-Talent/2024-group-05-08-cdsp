@@ -1,13 +1,13 @@
 ### Data Cleaning
 our dataset consists of five separated datasets which are:
 
-Out_of_school_rates
-Attendance_rate
-Completion_rate
-information_communication_technological skills
-literacy_rate
+- Out_of_school_rates.
+- Attendance_rate.
+- Completion_rate.
+- Information_communication_technological skills.
+- Literacy_rate.
 
-each of the above dataset contains empty cells, abnormally and our of range data values. in order to make the dataset analysis ready, as each of the data points are consist of countries and their attributes, the data points divided into four regions:
+Each of the above dataset contains empty cells, abnormally and our of range data values. in order to make the dataset analysis ready, as each of the data points are consist of countries and their attributes, the data points divided into four regions:
 
 - Least Developed.
 - Less Developed.
