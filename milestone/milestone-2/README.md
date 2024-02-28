@@ -1,4 +1,4 @@
-#Milestone 2:Data Collection
+# Milestone 2:Data Collection
 ### Project Data Overview:
 Our project relies extensively on the <a href="https://data.unicef.org/topic/education/overview/" target="_blank">UNICEF</a> dataset, which covers a wide range of education levels, from pre-primary to youth and adult education. This dataset emphasizes measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts, catering to both developmental and emergency settings.
 We utilize insights from UNICEF's administrative records and household surveys to comprehensively assess children's school participation. By utilizing enrollment data and attendance information from diverse sources, we obtain a comprehensive view of primary and secondary education in developing countries. Notably, UNICEF's data align with the official International Standard Classifications of Education (ISCED), providing a standardized framework, albeit with potential variations compared to country-specific school systems.
