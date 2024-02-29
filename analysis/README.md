@@ -30,12 +30,6 @@
 - ![Completion_rate_Rural_Urban](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8e8a0139-7bc8-472b-a427-285bbfdf69a2)
 
 
-#### Out-of-School Rates:
-
-- Rural areas experience higher out-of-school rates compared to urban areas, and individuals from economically disadvantaged backgrounds show the highest rates. This underscores the need for targeted policies to address disparities in educational access.
-  
-  ![Avg_Out_Of_School_Rate](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/7b0b6d46-c7f9-463b-be54-99e3431d0b2f)
-
 #### Correlation:
 
 - Positive correlations exist between completion rates and literacy rates, suggesting that higher completion rates are associated with higher literacy rates. Females tend to achieve higher literacy rates, indicating potential gender-based advantages.
