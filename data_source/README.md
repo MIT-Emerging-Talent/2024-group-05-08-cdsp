@@ -1,22 +1,7 @@
 Welcome to the data_source folder! Here, you'll find the backbone of our project, the raw_data section, centered on the UNICEF dataset covering various education levels. The cleaned_data section details our meticulous cleaning process, categorizing data by regions and utilizing medians for imputation. The cleaning_progress section offers ongoing insights into our data refinement journey. Below, you'll find our dataset glossary for further clarity.
 
 
-### Datasets Glossary
 
-- __ISO3:__ Three-digit alphabetical codes International Standard ISO 3166-1
-- __Countries and areas:__ Countries and areas across the globe 
-- __Region:__ UNICEF defined regions
-- __Sub-region:__ UNICEF defined sub-regions
-    - EAP	East Asia and the Pacific
-    - ECA	Europe and Central Asia
-    - EECA	Eastern Europe and Central Asia
-    - ESA	Eastern and Southern Africa
-    - LAC	Latin America and the Caribbean
-    - MENA	Middle East and North Africa
-    - NA	North America
-    - SA	South Asia
-    - SSA	Sub-Saharan Africa
-    - WCA	West and Central Africa
 - __Development Regions:__ Economies of the countries 
 - __CR_Primary_Total:__ Primary level completion rate Total
 - __CR_Primary_Female:__ Primary level completion rate Female
