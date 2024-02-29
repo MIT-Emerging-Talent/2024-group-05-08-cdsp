@@ -27,7 +27,7 @@
 
 - Completion rates decline as education progresses from primary to upper secondary. Females consistently exhibit higher completion rates, emphasizing gender-specific factors influencing educational progression.
   
-- ![Completion_rate_Rural_Urban](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8e8a0139-7bc8-472b-a427-285bbfdf69a2)
+  ![Completion_rate_Rural_Urban](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8e8a0139-7bc8-472b-a427-285bbfdf69a2)
 
 
 #### Correlation:
