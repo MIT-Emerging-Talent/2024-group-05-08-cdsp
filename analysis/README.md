@@ -5,8 +5,8 @@
 #### Global Disparities:
 
 - Considerable variation in literacy rates exists among developing countries, with some nations showing rates approaching 90%, while others, particularly in Africa, exhibit significantly lower literacy rates.
-  
-(https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/71f4fd20-ff10-441d-89bc-82503d1b9f6a)
+- 
+<img width="1461" alt="Screenshot 2024-02-29 at 9 21 10 PM" src="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8547e8a2-c2ff-4f55-987d-14521185833a">
 
 
 #### Gender Disparities:
