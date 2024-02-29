@@ -34,18 +34,12 @@
   
   ![Avg_Out_Of_School_Rate](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/7b0b6d46-c7f9-463b-be54-99e3431d0b2f)
 
-#### Correlations:\*
+#### Correlation:\*
 
 - Positive correlations exist between completion rates and literacy rates, suggesting that higher completion rates are associated with higher literacy rates. Females tend to achieve higher literacy rates, indicating potential gender-based advantages.
 
  ![Correlation_Heatmap](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/39ab1894-bed8-421f-ae81-d133b39b0ecd)
 
-
-#### Economic Status and Education:\*
-
-- A correlation between economic status and educational outcomes is evident, with richer economies showing higher completion rates and lower out-of-school rates.
-
-![Correlation_Heatmap](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/39ab1894-bed8-421f-ae81-d133b39b0ecd)
 
 #### Call to Action:\*
 
