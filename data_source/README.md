@@ -2,7 +2,6 @@ Welcome to the data_source folder! Here, you'll find the backbone of our project
 
 
 
-- __Development Regions:__ Economies of the countries 
 - __CR_Primary_Total:__ Primary level completion rate Total
 - __CR_Primary_Female:__ Primary level completion rate Female
 - __CR_Primary_Male:__ Primary level completion rate Male
