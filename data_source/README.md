@@ -2,66 +2,50 @@ Welcome to the data_source folder! Here, you'll find the backbone of our project
 
 
 
-- __CR_Primary_Total:__ Primary level completion rate Total
-- __CR_Primary_Female:__ Primary level completion rate Female
-- __CR_Primary_Male:__ Primary level completion rate Male
-- __CR_Primary_Residence_Rual:__ Primary level completion rate in Rural Area
-- __CR_Primary_Residence_Urban:__ Primary level completion rate in Urban Area
-- __CR_Primary_Wealth_Poorest:__ Primary level wealth quantile (poorest) 
-- __CR_Primary_Wealth_Second:__ Primary level completion rate wealth quantile (second)
-- __CR_Primary_Wealth_Middle:__ Primary level completion rate wealth quantile (middle)
-- __CR_Primary_Wealth_Fourth:__ Primary level completion rate wealth quantile (fourth)
-- __CR_Primary_Wealth_Richest:__ Primary level completion rate wealth quantile (richest)
-- __CR_LowerSecondary_Total:__ Lower secondary level completion rate Total
-- __CR_LowerSecondary_Female:__ Lower secondary level completion rate Female
-- __CR_LowerSecondary_Male:__ Lower secondary level completion rate Male
-- __CR_LowerSecondary_Residence_Rual:__ Lower secondary level completion rate in Rural Area
-- __CR_LowerSecondary_Residence_Urban:__ Lower secondary level completion rate in Urban Area
-- __CR_LowerSecondary_Wealth_Poorest:__ Lower secondary level completion rate wealth quantile (poorest) 
-- __CR_LowerSecondary_Wealth_Second:__ Lower secondary level completion rate wealth quantile (second)
-- __CR_LowerSecondary_Wealth_Middle:__ Lower secondary level completion rate wealth quantile (middle)
-- __CR_LowerSecondary_Wealth_Fourth:__ Lower secondary level completion rate wealth quantile (fourth)
-- __CR_LowerSecondary_Wealth_Richest:__ Lower secondary level completion rate wealth quantile (richest)
-- __CR_UpperSecondary_Total:__ Upper secondary level completion rate Total
-- __CR_UpperSecondary_Female:__ Upper secondary level completion rate Female
-- __CR_UpperSecondary_Male:__ Upper secondary level completion rate Male
-- __CR_UpperSecondary_Residence_Rual:__ Upper secondary level completion rate in Rural Area
-- __CR_UpperSecondary_Residence_Urban:__ Upper secondary level completion rate in Urban Area
-- __CR_UpperSecondary_Wealth_Poorest:__ Upper secondary level completion rate wealth quantile (poorest) 
-- __CR_UpperSecondary_Wealth_Second:__ Upper secondary level completion rate wealth quantile (second)
-- __CR_UpperSecondary_Wealth_Middle:__ Upper secondary level completion rate wealth quantile (middle)
-- __CR_UpperSecondary_Wealth_Fourth:__ Upper secondary level completion rate wealth quantile (fourth)
-- __CR_UpperSecondary_Wealth_Richest:__ Upper secondary level completion rate wealth quantile (richest)
-- __ATR_Primary_Total:__ Primary level attendance rate Total
-- __ATR_Primary_Female:__ Primary level attendance rate Female
-- __ATR_Primary_Male:__ Primary level attendance rate Male
-- __ATR_Primary_Residence_Rual:__ Primary level attendance rate in Rural Area
-- __ATR_Primary_Residence_Urban:__ Primary level attendance rate in Urban Area
-- __ATR_Primary_Wealth_Poorest:__ Primary level wealth quantile (poorest) 
-- __ATR_Primary_Wealth_Second:__ Primary level attendance rate wealth quantile (second)
-- __ATR_Primary_Wealth_Middle:__ Primary level attendance rate wealth quantile (middle)
-- __ATR_Primary_Wealth_Fourth:__ Primary level attendance rate wealth quantile (fourth)
-- __ATR_Primary_Wealth_Richest:__ Primary level attendance rate wealth quantile (richest)
-- __ATR_LowerSecondary_Total:__ Lower secondary level attendance rate Total
-- __ATR_LowerSecondary_Female:__ Lower secondary level attendance rate Female
-- __ATR_LowerSecondary_Male:__ Lower secondary level attendance rate Male
-- __ATR_LowerSecondary_Residence_Rual:__ Lower secondary level attendance rate in Rural Area
-- __ATR_LowerSecondary_Residence_Urban:__ Lower secondary level attendance rate in Urban Area
-- __ATR_LowerSecondary_Wealth_Poorest:__ Lower secondary level attendance rate wealth quantile (poorest) 
-- __ATR_LowerSecondary_Wealth_Second:__ Lower secondary level attendance rate wealth quantile (second)
-- __ATR_LowerSecondary_Wealth_Middle:__ Lower secondary level attendance rate wealth quantile (middle)
-- __ATR_LowerSecondary_Wealth_Fourth:__ Lower secondary level attendance rate wealth quantile (fourth)
-- __ATR_LowerSecondary_Wealth_Richest:__ Lower secondary level attendance rate wealth quantile (richest)
-- __ATR_UpperSecondary_Total:__ Upper secondary level attendance rate Total
-- __ATR_UpperSecondary_Female:__ Upper secondary level attendance rate Female
-- __ATR_UpperSecondary_Male:__ Upper secondary level attendance rate Male
-- __ATR_UpperSecondary_Residence_Rual:__ Upper secondary level attendance rate in Rural Area
-- __ATR_UpperSecondary_Residence_Urban:__ Upper secondary level attendance rate in Urban Area
-- __ATR_UpperSecondary_Wealth_Poorest:__ Upper secondary level attendance rate wealth quantile (poorest) 
-- __ATR_UpperSecondary_Wealth_Second:__ Upper secondary level attendance rate wealth quantile (second)
-- __ATR_UpperSecondary_Wealth_Middle:__ Upper secondary level attendance rate wealth quantile (middle)
-- __ATR_UpperSecondary_Wealth_Fourth:__ Upper secondary level attendance rate wealth quantile (fourth)
-- __ATR_UpperSecondary_Wealth_Richest:__ Upper secondary level attendance rate wealth quantile (richest)
-- __OOR_Primary_Total:__ Primary level out of school rate Total
-- __OOR_Primary_Female:__ Primary level out of school rate Female
-- __OOR_Primary
+<table>
+  <tr>
+    <th>Variable Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>CR_Primary_Total</td>
+    <td>Primary level completion rate Total</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Female</td>
+    <td>Primary level completion rate Female</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Male</td>
+    <td>Primary level completion rate Male</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Residence_Rual</td>
+    <td>Primary level completion rate in Rural Area</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Residence_Urban</td>
+    <td>Primary level completion rate in Urban Area</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Wealth_Poorest</td>
+    <td>Primary level completion rate wealth quantile (poorest)</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Wealth_Second</td>
+    <td>Primary level completion rate wealth quantile (second)</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Wealth_Middle</td>
+    <td>Primary level completion rate wealth quantile (middle)</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Wealth_Fourth</td>
+    <td>Primary level completion rate wealth quantile (fourth)</td>
+  </tr>
+  <tr>
+    <td>CR_Primary_Wealth_Richest</td>
+    <td>Primary level completion rate wealth quantile (richest)</td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
