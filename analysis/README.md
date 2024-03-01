@@ -1,6 +1,10 @@
-## Findings
+
+### Call to Action:
+
+- Efforts should focus on reducing gender disparities, addressing economic inequalities, and implementing targeted interventions for vulnerable populations. Policymakers and educators can use these findings to allocate resources effectively and design inclusive educational reforms.
 
 
+### Findings
 
 #### Global Disparities:
 
@@ -35,6 +39,4 @@
  ![Correlation_Heatmap](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/39ab1894-bed8-421f-ae81-d133b39b0ecd)
 
 
-#### Call to Action:\*
 
-- Efforts should focus on reducing gender disparities, addressing economic inequalities, and implementing targeted interventions for vulnerable populations. Policymakers and educators can use these findings to allocate resources effectively and design inclusive educational reforms.
