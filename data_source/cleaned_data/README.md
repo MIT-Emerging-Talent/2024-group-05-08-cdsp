@@ -1,21 +1,68 @@
-### Data Cleaning
-our dataset consists of five separated datasets which are:
+## Data Cleaning Process:
 
-Out_of_school_rates
-Attendance_rate
-Completion_rate
-information_communication_technological skills
-literacy_rate
+#### 1. Dataset Overview:
 
-each of the above dataset contains empty cells, abnormally and our of range data values. in order to make the dataset analysis ready, as each of the data points are consist of countries and their attributes, the data points divided into four regions:
+The dataset consists of five separate datasets:
 
-- Least Developed.
-- Less Developed.
-- More Developed.
-- Not Classified.
-  
-From each of the above categories, we took the median for each specific variables and filled the missing values of those variables with their respective variables and categories. For instance, based on the data Afghanistan is in the least developed countries, if there is any missing value for any of the columns related to Afghanistan. That missing part is filled only with the median of least developed countries, not with more developed countries.
+- Out of school rates
+- Attendance rate
+- Completion rate
+- Literacy rate
+- GDP Expenditures on education
 
-The same procedure had been applied to all of the above mentioned dataset.
+#### 2. Data Regions:
 
-For you reference, you can use literacy rate notebook for cleaning the raw data and look through deeply into the dataset.
+The data points are divided into four regions:
+
+- Least Developed
+- Less Developed
+- More Developed
+- Not Classified
+
+#### 3. Handling Missing and Abnormal Data:
+
+Identifying Missing Values:
+
+Checked each dataset for empty cells and abnormal/out-of-range data values.
+
+###### Region-Specific Medians:
+
+Calculated medians for each variable within the four regions separately.
+
+- Least Developed
+- Less Developed
+- More Developed
+- Not Classified
+
+##### Filling Missing Values:
+
+Filled missing values of each variable with the median of its respective region.
+If a data point belongs to the "Least Developed" region, missing values for that data point are filled with the median of "Least Developed" countries' values for that variable.
+Similar procedure followed for "Less Developed" and "More Developed" regions.
+
+#### 4. Example:
+
+##### Scenario:
+
+If a data point belongs to Afghanistan (classified under "Least Developed" region) and has missing values:
+Missing values for each variable are filled with the median values of variables within the "Least Developed" countries.
+
+#### 5. Standardized Cleaning Procedure
+
+Apply to All Datasets:
+The same cleaning procedure is applied to all five datasets: Out of school rates, Attendance rate, Completion rate, ICT skills, and Literacy rate.
+
+#### 6. Ensuring Data Consistency and Quality
+
+Validation:
+After filling missing values, conducted validation checks to ensure data consistency and quality.
+Verified that each data point now contains region-specific median values where missing values existed.
+
+#### 7. Final Dataset
+
+The cleaned dataset is now analysis-ready, with missing values replaced with region-specific medians.
+
+#### 8. Literacy Rate Notebook
+
+Refer to the provided <a href="../cleaning_progress/Literacy_Rate_Cleaning.ipynb">Literacy Rate Notebook</a> and <a href="../cleaning_progress/Completion_Rate.ipynb">Completion Rate Notebook</a> for a detailed look into the data cleaning process.
+This standardized data cleaning procedure ensures that the dataset is compelling, standard, and ready for analysis, maintaining the integrity of region-specific data while preparing it for meaningful insights.
