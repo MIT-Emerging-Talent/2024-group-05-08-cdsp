@@ -5,13 +5,11 @@ We utilize insights from UNICEF's administrative records and household surveys t
 
 ### Key Indicators in UNICEF Education Dataset:
 The UNICEF education dataset comprises various subsets, encompassing crucial indicators such as:
-- Out-of-school rate
+- Out of school rate
 - Adjusted net attendance rate
 - Completion rate
-- Foundational learning skills
-- Information communication technology skills
 - Youth and adult literacy rate
-- School-age digital connectivity
+
 
 
 ### Possible flaws
