@@ -6,16 +6,14 @@
 
 - Considerable variation in literacy rates exists among developing countries, with some nations showing rates approaching 90%, while others, particularly in Africa, exhibit significantly lower literacy rates.
   
-<img width="1461" alt="Screenshot 2024-02-29 at 9 21 10 PM" src="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8547e8a2-c2ff-4f55-987d-14521185833a">
+<img width="1460" alt="Screenshot 2024-02-29 at 9 26 07 PM" src="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/f50f1a3a-300c-4d31-bfc1-dbbeb41dad2c">
 
 
 #### Gender Disparities:
 
 - A noticeable gender disparity in literacy rates, particularly in adult literacy, highlights lower rates for females. This suggests gender-based barriers to education in several developing countries.
 
-<img width="1460" alt="Screenshot 2024-02-29 at 9 26 07 PM" src="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/f50f1a3a-300c-4d31-bfc1-dbbeb41dad2c">
-
-
+<img width="1461" alt="Screenshot 2024-02-29 at 9 21 10 PM" src="https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8547e8a2-c2ff-4f55-987d-14521185833a">
 
 #### Wealth Disparities:
 
