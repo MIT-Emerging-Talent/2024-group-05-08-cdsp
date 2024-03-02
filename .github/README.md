@@ -33,7 +33,7 @@ For our project, we extensively utilize the UNICEF dataset on education, coverin
 
 Upon selecting the suitable data set, we proceeded to clean the data to ensure its quality and usability for analysis. This involved identifying and addressing any inconsistencies, errors, or missing values in the data, ensuring that it is accurate and reliable for further processing. One of the main issues with the original data which we have noticed is missing values,especially for least developed countries and less developed countries. Those missing cells had been filled with median of their respective category <a href="/data_source/cleaned_data" target="_blank">Cleaned Data</a>.
 
-By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found at <a href="/data_source/cleaning_progress/" target="_blank">data source</a>.
+By selecting the UNICEF data set and cleaning it meticulously, we ensured access to robust and relevant data that will facilitate our analysis and contribute to the effectiveness of our project outcomes. More details about this phase deliverables can be found at <a href="/data_source/cleaning_progress/" target="_blank">Cleaning Notebooks</a>.
 
 <h2><a href="/analysis/">Our Findings</a></h2>
 In this phase,the collected data analyzed to derive insights and draw conclusions. various analytical techniques used  and tools to make sense of the data and identify patterns or trends.
