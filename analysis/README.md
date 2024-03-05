@@ -25,11 +25,6 @@
   
   ![Completion_Rate_By_Wealth](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/9e4c5f2f-cfc8-43bb-8926-4294c41c4052)
 
-#### Educational Progression:
-
-- Completion rates decline as education progresses from primary to upper secondary. Females consistently exhibit higher completion rates, emphasizing gender-specific factors influencing educational progression.
-  
-  ![Completion_rate_Rural_Urban](https://github.com/MIT-Emerging-Talent/2024-group-05-08-cdsp/assets/85621380/8e8a0139-7bc8-472b-a427-285bbfdf69a2)
 
 
 #### Correlation:
