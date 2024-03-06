@@ -86,7 +86,13 @@
        . Develop communication and project management skills.
 
        
+#### 9. Pashtana's Learning Goals:
 
+       . Learn collaborative tools like Git and Github for effective team collaboration.
+       . Enhance data analysis skills, particularly in Python for extracting insights from data.
+       . Develop critical thinking for problem-solving and interpreting research findings.
+       . Gain insights into global education systems, understanding their complexities and implications.
+       . Cultivate teamwork skills with diverse team members from different countries, fostering effective communication and collaboration.
 
 ### Esmatullah Hassanzada's Learning Goals:
 
