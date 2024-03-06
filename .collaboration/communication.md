@@ -134,6 +134,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 | --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
 |  Tasabeeh     | 8:00-10:00 AM | 11:30-12:00 AM | 8:00-8:10AM | 11:30-12:00 AM | 8:00-8:10AM | 8:00 AM | 8:00 AM |
 
+| Day       |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   | Sunday  |
+| --------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :-----: |
+|  Pashtana | 10:30-13:00 | 10:30-13:00 | 10:30-13:00 | 10:30-13:00 | 10:30-13:00 | 8:00-13:00  | 8:00-13:00 |
+
+
 
 ### How many hours everyone has per day:
 
@@ -150,7 +155,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Zia : 2h;
 - Esmatullah : 2h;
 - Tasabeeh: 2h;
-  
+- Pashtana: 2h;
 
 ## Asking for Help
 
